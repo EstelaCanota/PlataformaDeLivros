@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Ana",
+        "livro": "1984",
+        "comentario": "Uma distopia poderosa e assustadora.",
+        "nota": 5
+    },
+    {
+        "nome": "João",
+        "livro": "Dom Casmurro",
+        "comentario": "Fiquei na dúvida: Capitu traiu ou não?",
+        "nota": 4
+    },
+    {
+        "nome": "Marina",
+        "livro": "Orgulho e Preconceito",
+        "comentario": "Romance envolvente com crítica social.",
+        "nota": 5
+    },
+    {
+        "nome": "Carlos",
+        "livro": "O Hobbit",
+        "comentario": "Uma jornada fantástica e divertida!",
+        "nota": 5
+    },
+    {
+        "nome": "testee",
+        "livro": "teste",
+        "comentario": "teste",
+        "nota": 3
+    }
+]

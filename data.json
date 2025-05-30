@@ -1,0 +1,16 @@
+{
+    "avaliacoes": [
+        {
+            "nome": "Estela",
+            "livro": "O extraordinário",
+            "comentario": "Muito bom, e mais completo que o filme!",
+            "nota": 5
+        },
+        {
+            "nome": "Marcos Augusto",
+            "livro": "A Droga da Desobêdiencia ",
+            "comentario": "Me fez refletir, indico bastante, e comprei pela Amazon.",
+            "nota": 4
+        }
+    ]
+}
